@@ -1,5 +1,5 @@
 # Extracting_data_from_PDF_files
-Multiple python libraries to extract text and data from tables
+Multiple python libraries to extract the data from PDF files
 
 **The libraries are:**
 
