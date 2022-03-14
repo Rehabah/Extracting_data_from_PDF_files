@@ -2,7 +2,11 @@
 Multiple python libraries to extract text and data from tables
 
 **The libraries are:**
+
 •	PyPDF2
+
 •	pdfplumber
+
 •	fitz from(PyMuPDF)
+
 •	tika
